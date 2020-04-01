@@ -1,5 +1,5 @@
 body {
-  background: #10375C;
+  background: #235952;
   color: #687466;
   font-family: 'Lora', serif;
   font-size: 17px;
@@ -30,7 +30,7 @@ a:hover {
   color: black;
 }
 .container {
-  width: 475px;
+  width: 700px;
   margin: 60px auto;
 }
 .card-white {
@@ -90,5 +90,4 @@ a:hover {
     width: 300px;
   }
 }
-
 
